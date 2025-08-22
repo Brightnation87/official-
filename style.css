@@ -1,0 +1,173 @@
+      body {
+        background-color: #0f0f0ff7;
+        margin-bottom: 50px;
+      }
+      
+      .body {
+        background-color: black;
+        color: white;
+        margin-top: 50px;
+        font-family: Arial;
+        padding: 0px;
+        padding-bottom: 50px;
+        padding-top: 50px;
+        box-shadow: 0.1px -0.1px 1px #cecece;
+        border-radius: 5px;
+        
+      }
+      
+      header {
+        text-align: center;
+      }
+      
+      .name {
+        font-size: 28px;
+        font-family: Arial;
+        font-weight: bold;
+        margin-bottom: 0px;
+        padding-top: 0px;
+      }
+      
+      .sub-name {
+        margin-top: 5px;
+        font-size: 10px;
+      }
+      
+      a {
+        text-decoration: none;
+        color: white;
+        font-size: 9px;
+        background-color: #2b2eff;
+        padding: 5px;
+        Border-radius: 5px;
+        font-weight: bold;
+        padding: 7px;
+        box-shadow: 0.1px -0.1px 3px #cecece;
+      }
+      
+      section {
+        margin-top: 100px;
+      }
+      
+      .section-name {
+        text-align: center;
+        font-weight: bold;
+      }
+      
+      .grid {
+        display:grid;
+        grid-template-rows: auto auto;
+        grid-template-columns: auto auto;
+        grid-gap: 10px;
+        margin: 20px;
+        padding: 0px;
+        
+      }
+      
+      .grid-element {
+        font-size: 7px;
+        background-color:  #0f0f0ff7;
+        border-radius: 5px;
+        padding: 2px;
+        height: 60px;
+        position: relative;
+        box-shadow: 0.1px -0.1px 1px #cecece;
+   
+      }
+      
+     
+      .grid-img {
+        display: inline-block;
+        width: 40px;
+        vertical-align: top;
+      }
+      
+      .grid-text {
+        display: inline-block;
+        width: 100px;
+      }
+       
+      .grid-para {
+        font-size: 11px;
+        font-weight: bold;
+        margin-bottom: 0px;
+        margin-top: 5px;
+      }
+      
+      .sub-para {
+        padding-right: 5px;
+        font-size: 9px;
+      }
+      
+      .grid-editing-icon {
+        width: 30px;
+        position: absolute;
+        top: 2px;
+        left: 10px;
+      }
+      
+      .grid-web-icon {
+        width: 40px;
+        position: absolute;
+        top: -3px;
+      }
+      
+      .grid-graphic-icon {
+        width: 60px;
+        position: absolute;
+        top: 5px;
+        left: -5px;
+      }
+      
+      .grid-animation-icon {
+        width: 25px; 
+        position: absolute; 
+        top: 7px; 
+        left: 10px;  
+      }
+      
+      .whatsapp-img {
+        width: 25px;
+        position: absolute;
+        top: -7px;
+        left: 10px;
+        
+      }
+      
+      footer {
+        font-size: 8px;
+        margin-top: 50px;
+        margin-left: 20px;
+      }
+      
+      .footer-para {
+        display: inline-block;
+        width: 160px;
+        font-size: 9px;
+      }
+      
+      .footer-a {
+        display: inline-block;
+        position: relative; 
+        left: 45px;
+        bottom: 10px;  
+        box-shadow: 0.1px -0.1px 1px #cecece;  
+      }
+      
+      .footer-a a {
+        text-decoration: none;
+        color: white;
+        font-size: 9px;
+        background-color: #2b2eff;
+        padding: 8px 25px 8px 35px;
+        Border-radius: 5px;
+        font-weight: bold;
+      }
+          
+      .footer-name {
+        text-align: left;
+        font-weight: bold;
+        font-size: 15px;
+        font-family: Arial;
+        margin-bottom: 0px;
+      }
